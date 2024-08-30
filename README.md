@@ -66,9 +66,7 @@ To run this application, you need:
 
 Contributions are welcome! If you find any issues or have suggestions, feel free to create an issue or submit a pull request.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
